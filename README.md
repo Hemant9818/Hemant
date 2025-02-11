@@ -47,11 +47,8 @@ I am a person who is positive about every aspect of life. There are many things 
 
 
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Contact Us</title>
-    <link rel="stylesheet" href="styles.css">
+
+
 </head>
 <body>
     <header>
