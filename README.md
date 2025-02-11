@@ -51,6 +51,7 @@ I am a person who is positive about every aspect of life. There are many things 
   <section id="contact">
     <div class="container">
       <h2>Contact Me</h2>
+      Hemant98513@gmail.com
       <p>You can reach me through the form below or at my email address.</p>
       <form action="#" method="post">
         <input type="text" name="name" placeholder="Your Name" required>
