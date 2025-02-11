@@ -46,8 +46,7 @@ I am a person who is positive about every aspect of life. There are many things 
       <p>Check out some of the projects I’ve worked on:</p>
 
 
- <!DOCTYPE html>
-<html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
