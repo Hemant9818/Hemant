@@ -48,10 +48,7 @@ I am a person who is positive about every aspect of life. There are many things 
     </div>
   </section>
 
-  <section id="contact">
-    <div class="container">
-      <h2>Contact Me</h2>
- 
+
  <!DOCTYPE html>
 <html lang="en">
 <head>
