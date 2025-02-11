@@ -65,13 +65,8 @@ I am a person who is positive about every aspect of life. There are many things 
         <h1>Contact Us</h1>
     </header>
     
-    <section class="contact-form">
-        <form id="contactForm">
-            <label for="name">Full Name:</label>
-            <input type="text" id="name" name="name" required>
-            
-            <label for="email">Email Address:</label>
-            <input type="email" id="email" name="email" required>
+   Hemant98513@gmail.com
+  
             
 
 
