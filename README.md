@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">                 Build/b2cf1344-569f-4dbd-83b4-87a1903b4ee1.jpg
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   Welcome to Hemant Nath personal Website.
   <link rel="stylesheet" href="styles.css">
 </head>
