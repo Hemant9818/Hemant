@@ -44,9 +44,6 @@ I am a person who is positive about every aspect of life. There are many things 
     <div class="container">
       <h2>My Work</h2>
       <p>Check out some of the projects I’ve worked on:</p>
-      <!-- Portfolio items can be added here -->
-    </div>
-  </section>
 
 
  <!DOCTYPE html>
